@@ -171,5 +171,3 @@ class Luminaries():
 if __name__ == "__main__":
     for part in Luminaries():
         print(part)
-    import ipdb;ipdb.set_trace()
-    pass
